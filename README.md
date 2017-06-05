@@ -26,11 +26,11 @@ TODO:
 - [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 
 ## Mindset Enhancement, Philosophy
-- [ ] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
-- [ ] ‼️ **The 7 Habits of Highly Effective People** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
-- [ ] ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
-- [ ] ‼️ **Emotional Intelligence: Why It Can Matter More Than IQ** [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
-- [ ] ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
+- [ ] ⭐️️️ ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
+- [ ] ⭐️️️ ‼️ **The 7 Habits of Highly Effective People** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+- [ ] ⭐️️️ ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
+- [ ] ⭐️️️ ‼️ **Emotional Intelligence: Why It Can Matter More Than IQ** [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
+- [ ] ⭐️️️ ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
 - [ ] ⭐️️️ ‼️ **How to Solve It: A New Aspect of Mathematical Method** [📖](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [ ] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
@@ -76,23 +76,23 @@ TODO:
 - [ ] First Impressions: What You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/show/589937.First_Impressions)
 
 ## UX & Design
-- [ ] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
-- [ ] ‼️ **Hooked: How to Build Habit-Forming Products** [📖](https://www.goodreads.com/book/show/22668729-hooked)
-- [ ] ‼️ **Resonate: Present Visual Stories that Transform Audiences** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
-- [ ] Design for Hackers [📖](https://www.goodreads.com/book/show/11457105-design-for-hackers)
+- [ ] ⭐️️️ ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
+- [ ] ⭐️️️ ‼️ **Hooked: How to Build Habit-Forming Products** [📖](https://www.goodreads.com/book/show/22668729-hooked)
+- [ ] ⭐️️️ ‼️ **Resonate: Present Visual Stories that Transform Audiences** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [ ] ⭐️ ‼️ **The Humane Interface** [📖](https://www.goodreads.com/book/show/344726.The_Humane_Interface)
 - [ ] ⭐️ ‼️ **The Design of Everyday Things** [📖](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) 
-- [ ] ⭐️ **Non-Designer's Design Book, The, 4th Edition** [📖](https://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book) 
+- [ ] ⭐️ **Non-Designer's Design Book, The, 4th Edition** [📖]
 - [ ] ⭐️ **Seductive Interaction Design** [📖](https://www.goodreads.com/book/show/9967766-seductive-interaction-design) 
+- [ ] Design for Hackers [📖](https://www.goodreads.com/book/show/11457105-design-for-hackers)(https://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book) 
 - [ ] Designing Web Interfaces. Principles and Patterns for Rich Interactions [📖](https://www.goodreads.com/book/show/5674421-designing-web-interfaces) 
 - [ ] UX for Lean Startups [📖](https://www.goodreads.com/book/show/16128986-ux-for-lean-startups) 
 - [ ] Design For business  [📖](http://tubikstudio.com/book/)
 - [ ] Design: creation of artifacts in society [📖](https://www.goodreads.com/book/show/20330172-design)
 
 ## Coaching & Teaching
-- [ ] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
 - [ ] ⭐️ **Make it stick: the ` of successful learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
 - [ ] ⭐️ Free To Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life [📖](https://www.goodreads.com/book/show/15843125-free-to-learn)
+- [ ] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
 - [ ] HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG) 
 - [ ] Open: How We’ll Work, Live and Learn In The Future [📖](https://www.goodreads.com/book/show/18730272-open)
 
@@ -102,6 +102,7 @@ TODO:
 - [ ] Biohacking Book [📖](http://biohackingbook.com/) 
 
 ## Science
+- [x] ⭐️ ‼️ Harry Potter and the Methods of Rationality [📖](http://www.hpmor.com/)
 - [ ] ⭐️ ‼️ **The Sciences of the Artificial, Third Edition** [📖](https://www.goodreads.com/book/show/676046.The_Sciences_of_the_Artificial)   
 - [ ] ⭐️ ‼️ **Geometry of Meaning: Semantics Based on Conceptual Spaces** [📖](https://www.goodreads.com/book/show/18699199-geometry-of-meaning)
 - [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems) 
@@ -114,18 +115,14 @@ TODO:
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket) 
-- [ ] ⭐️ ‼️ Harry Potter and the Methods of Rationality [📖](http://www.hpmor.com/)
 
 ## Engineering & Programming
 - [ ] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
 - [ ] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
-- [ ] Building Microservices [📖](https://www.goodreads.com/book/show/22512931-building-microservices) 
 - [ ] ‼️ **The Passionate Programmer** [📖](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
 - [ ] ‼️ **Soft Skills** [📖](https://www.goodreads.com/book/show/23232941-soft-skills)
 - [ ] ‼️ ️**Clean Code** [📖](https://www.goodreads.com/book/show/3735293-clean-code)
 - [ ] ‼️️ **Head First Design Patterns** [📖](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
-- [ ] Domain Driven Design Distilled [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) 
-- [ ] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
 - [ ] ⭐️ ‼️️ **High Performance Browser Networking** [📖](https://www.goodreads.com/book/show/17985198-high-performance-browser-networking)
 - [ ] ⭐️ ‼️️ **Structured Computer Organization** [📖](https://www.goodreads.com/book/show/457107.Structured_Computer_Organization)
 - [ ] ⭐️ **Professor Frisby's Mostly Adequate Guide to Functional Programming** [📖](https://www.goodreads.com/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
@@ -153,6 +150,9 @@ TODO:
 - [ ] ⭐️ **Production Ready Microservices** [📖](https://www.goodreads.com/book/show/33252815-production-ready-microservices) 
 - [ ] ⭐ Reactive Messaging Patterns with the Actor Model [📖](https://www.goodreads.com/book/show/33257823-reactive-messaging-patterns-with-the-actor-model)
 - [ ] ⭐ 99 Bottles of OOP [📖](https://www.sandimetz.com/99bottles)
+- [ ] Building Microservices [📖](https://www.goodreads.com/book/show/22512931-building-microservices) 
+- [ ] Domain Driven Design Distilled [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) 
+- [ ] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
 - [ ] TypeScript Deep Dive [📖](https://www.gitbook.com/book/basarat/typescript/details)
 - [ ] How Google Tests Software [📖](https://www.goodreads.com/book/show/13105440-how-google-tests-software)
 - [ ] Seven Concurrency Models in Seven Weeks [📖](https://www.goodreads.com/book/show/18467564-seven-concurrency-models-in-seven-weeks)
@@ -191,15 +191,15 @@ TODO:
 - [ ] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [ ] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
 - [ ] ‼️ **Deep Work** [📖](https://www.goodreads.com/book/show/25744928-deep-work)
-- [ ] Make the Most of Your Mind
- [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
-- [x] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 - [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better) 
 - [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert) 
 - [ ] ⭐️ **The Artist's Way: A Spiritual Path to Higher Creativity** [📖](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
 - [ ] ⭐️ **Work rules!** [📖](https://www.goodreads.com/book/show/22875447-work-rules)
 - [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
 - [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
+- [ ] Make the Most of Your Mind
+ [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
+- [ ] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 - [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers [📖](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 - [ ] Big Magic: Creative Living Beyond Fear [📖](https://www.goodreads.com/book/show/24453082-big-magic)
 - [ ] Программирование. Ступени успешной карьеры [📖](https://www.ozon.ru/context/detail/id/2644499/) 
@@ -220,9 +220,9 @@ TODO:
 
 ## Habits & Lifestyle
 - [ ] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
-- [ ] Miracle Morning [📖](https://www.goodreads.com/book/show/17166225-the-miracle-morning)
 - [ ] ️⭐️ **Algorithms to live by** [📖](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) 
 - [ ] ️⭐️ **Productivity Handbook** [📖](https://www.dropbox.com/s/kf39sos23qtwzax/Prouductivity%20Handbook.pdf?dl=0) 
+- [ ] Miracle Morning [📖](https://www.goodreads.com/book/show/17166225-the-miracle-morning)
 - [ ] 52 Small Changes: One Year to a Happier, Healthier You [📖](https://www.goodreads.com/book/show/13034840-52-small-changes)
 - [ ] Daily Rituals [📖](https://www.goodreads.com/book/show/15799151-daily-rituals) 
 - [ ] Reinvent yourself [📖](https://www.goodreads.com/book/show/33638850-reinvent-yourself)
@@ -236,27 +236,25 @@ TODO:
 - [ ] The Undercover Economist [📖](https://www.goodreads.com/book/show/70420.The_Undercover_Economist) 
 
 ## Manliness
-- [ ] The Way Of The Superior Man [📖](https://www.goodreads.com/book/show/79424.The_Way_Of_The_Superior_Man) 
 - [ ] ⭐️ ‼️ **No More Mr. Nice Guy** [📖](https://www.goodreads.com/book/show/97642.No_More_Mr_Nice_Guy) 
-- [ ] ️**Models** [📖](https://www.goodreads.com/book/show/12633800-models)
 - [ ] ⭐️ **Man's search for meaning** [📖](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) 
+- [ ] The Way Of The Superior Man [📖](https://www.goodreads.com/book/show/79424.The_Way_Of_The_Superior_Man) 
+- [ ] ️**Models** [📖](https://www.goodreads.com/book/show/12633800-models)
 - [ ] Tao Te Ching [📖](https://www.goodreads.com/book/show/67896.Tao_Te_Ching) 
 
 ## Marketing
-- [ ] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
 - [ ] ⭐️️️ **15 invaluable laws of growth** [📖](https://www.goodreads.com/book/show/13529210-the-15-invaluable-laws-of-growth) 
 - [ ] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)  
 - [ ] ⭐️️️ **The 22 Immutable Laws of Marketing** [📖](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing) 
 - [ ] ⭐️ **Positioning: The Battle for Your Mind** [📖](https://www.goodreads.com/book/show/10061378-positioning) 
 - [ ] ⭐️ **The Difference** [📖](https://www.goodreads.com/book/show/20746217-difference) 
 - [ ] ⭐️ **On Writing Well: The Classic Guide to Writing Nonfiction** [📖](https://www.goodreads.com/book/show/53343.On_Writing_Well) 
+- [ ] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
 - [ ] Made to Stick: Why Some Ideas Survive and Others Die [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick) 
 - [ ] Purple Cow: Transform Your Business By Being Remarkable [📖](https://www.goodreads.com/book/show/641604.Purple_Cow) 
 - [ ] Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
 
 ## Management, Entrepreneurship, Strategy & Decision Making
-- [ ] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
-- [ ] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
 - [ ] ⭐️ ‼️ **Five languages of appreciation** [📖](https://www.goodreads.com/book/show/11259079-the-five-languages-of-appreciation-in-the-workplace)
 - [ ] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
@@ -274,6 +272,8 @@ TODO:
 - [ ] ⭐️ The Richest Man in Babylon [📖](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
 - [ ] ⭐️ The Decision Book: Fifty Models for Strategic Thinking [📖](https://www.goodreads.com/book/show/9793361-the-decision-book)
 - [ ] ⭐️ The Challenger Sale: Taking Control of the Customer Conversation [📖](https://www.goodreads.com/book/show/11910902-the-challenger-sale)
+- [ ] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
+- [ ] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [ ] Rework [📖](https://www.goodreads.com/book/show/6732019-rework)
 - [ ] Контент-технология: как, где и о чем говорить с клиентами [📖](http://www.ozon.ru/context/detail/id/34541714/)
 - [ ] The War for Talent [📖](https://www.goodreads.com/book/show/691746.The_War_for_Talent)
