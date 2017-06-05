@@ -19,11 +19,12 @@ TODO:
 # Books
 
 ## Uncategorized 
+- [ ] ⭐️️️ ‼️ Seveneves [📖](http://www.goodreads.com/book/show/22816087-seveneves)
+- [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 - [ ] A short history of nearly everything [📖](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 - [ ] Werner Siemens [📖](http://www.siemens.com/content/dam/internet/siemens-com/global/company/about/history/personalities/werner-von-siemens/2016-lifelines-werner-von-siemens-web.pdf)
 - [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)  
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
-- [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 
 ## Mindset Enhancement, Philosophy
 - [ ] ⭐️️️ ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
@@ -103,6 +104,7 @@ TODO:
 
 ## Science
 - [x] ⭐️ ‼️ Harry Potter and the Methods of Rationality [📖](http://www.hpmor.com/)
+- [x] Sapiens [📖](https://www.goodreads.com/book/show/23692271-sapiens)
 - [ ] ⭐️ ‼️ **The Sciences of the Artificial, Third Edition** [📖](https://www.goodreads.com/book/show/676046.The_Sciences_of_the_Artificial)   
 - [ ] ⭐️ ‼️ **Geometry of Meaning: Semantics Based on Conceptual Spaces** [📖](https://www.goodreads.com/book/show/18699199-geometry-of-meaning)
 - [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems) 
@@ -110,7 +112,6 @@ TODO:
 - [ ] ️⭐️ **Conceptual Mathematics: A First Introduction to Categories** [📖](https://www.goodreads.com/book/show/6117276-conceptual-mathematics)
 - [ ] ⭐️ **Paradoxes of Growth: Laws of Global Development of Humanity** [📖](https://www.goodreads.com/book/show/34638152-paradoxes-of-growth)
 - [ ] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
-- [ ] Sapiens [📖](https://www.goodreads.com/book/show/23692271-sapiens)
 - [ ] Alice in Quantumland [📖](https://www.goodreads.com/book/show/1044095.Alice_in_Quantumland) 
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
