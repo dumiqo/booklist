@@ -27,7 +27,15 @@ TODO:
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
 
 ## Mindset Enhancement, Philosophy
-
+- [x] ⭐️️️ ️‼️ **The End of Absence: Reclaiming What We've Lost in a World of Constant Connection** [📖](http://www.goodreads.com/book/show/20821373-the-end-of-absence)
+- [x] ⭐️ **Fooled by Randomness** [📖](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)   
+- [ ] ⭐️ **10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works** [📖](http://www.goodreads.com/book/show/18505796-10-happier)   
+- [ ] ⭐️ **Mindfulness in Plain English** [📖](http://www.goodreads.com/book/show/64369.Mindfulness_in_Plain_English)
+- [ ] ⭐️ **Mindset: The New Psychology of Success** [📖](https://www.goodreads.com/book/show/40745.Mindset)
+- [ ] ⭐️ **Sustainable Materials - With Both Eyes Open** [📖](http://www.goodreads.com/book/show/13072034-sustainable-materials---with-both-eyes-open)   
+- [ ] ⭐️ **Being Nixon: A Man Divided** [📖](http://www.goodreads.com/book/show/25241663-being-nixon)   
+- [ ] ⭐️ **The Road to Character** [📖](http://www.goodreads.com/book/show/22551809-the-road-to-character)   
+- [ ] ⭐️️️ ️‼️ **Calm: Calm the mind. Change the world** [📖](http://www.goodreads.com/book/show/25194140-calm)
 - [ ] ⭐️️️ ️‼️ **The Power to Compete** [📖](https://www.gatesnotes.com/Books/The-Power-to-Compete)
 - [ ] ⭐️️️ ️‼️ **The Vital Question** [📖](http://www.goodreads.com/book/show/26530386-the-vital-question)
 - [ ] ⭐️️️ ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
@@ -39,7 +47,6 @@ TODO:
 - [ ] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
 - [ ] ⭐️ ‼️ **The Art of Thinking Clearly** [📖](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)
-- [ ] ⭐️ **Fooled by Randomness** [📖](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)   
 - [ ] ️⭐️ **The Wisdom of Crowds** [📖](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds)
 - [ ] ⭐️ **Think and Grow Rich** [📖](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) 
 - [ ] ️⭐️ **The 5 Elements of Effective Thinking** [📖](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking) 
@@ -48,7 +55,6 @@ TODO:
 - [ ] ⭐️️ **The Art Of Loving** [📖](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) 
 - [ ] ⭐️️ **Influence: The Psychology of Persuasion** [📖](https://www.goodreads.com/book/show/28815.Influence) 
 - [ ] ⭐️ **Willpower Instinct**  [📖](https://www.goodreads.com/book/show/10865206-the-willpower-instinct) 
-- [ ] ⭐️ **Mindset: The New Psychology of Success** [📖](https://www.goodreads.com/book/show/40745.Mindset)
 - [ ] ⭐️ **Parenting with Presence** [📖](https://www.goodreads.com/book/show/22750360-parenting-with-presence) 
 - [ ] ⭐️ **Search Inside Yourself** [📖](https://www.goodreads.com/book/show/12921211-search-inside-yourself) 
 - [ ] ⭐️ **The Secret of Quantum Living** [📖](https://www.goodreads.com/book/show/7927352-the-secret-of-quantum-living) 
@@ -101,6 +107,7 @@ TODO:
 - [ ] Open: How We’ll Work, Live and Learn In The Future [📖](https://www.goodreads.com/book/show/18730272-open)
 
 ## Health
+- [ ] Eradication: Ridding the World of Diseases Forever? [📖](http://www.goodreads.com/book/show/12931176-eradication) 
 - [ ] Death by Food Pyramid [📖](https://www.goodreads.com/book/show/18054967-death-by-food-pyramid) 
 - [ ] Live Long Enough to Live Forever [📖](https://www.goodreads.com/book/show/83538.Fantastic_Voyage) 
 - [ ] Biohacking Book [📖](http://biohackingbook.com/) 
@@ -108,6 +115,8 @@ TODO:
 ## Science
 - [x] ⭐️ ‼️ Harry Potter and the Methods of Rationality [📖](http://www.hpmor.com/)
 - [x] Sapiens [📖](https://www.goodreads.com/book/show/23692271-sapiens)
+- [x] The Beginning of Infinity: Explanations That Transform the World [📖](http://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+- [ ] Thing Explainer: Complicated Stuff in Simple Words [📖](http://www.goodreads.com/book/show/25329850-thing-explainer)
 - [ ] ⭐️ ‼️ **The Sciences of the Artificial, Third Edition** [📖](https://www.goodreads.com/book/show/676046.The_Sciences_of_the_Artificial)   
 - [ ] ⭐️ ‼️ **Geometry of Meaning: Semantics Based on Conceptual Spaces** [📖](https://www.goodreads.com/book/show/18699199-geometry-of-meaning)
 - [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems) 
@@ -121,7 +130,6 @@ TODO:
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket) 
 
 ## Engineering & Programming
-
 - [ ] ‼️ **Distributed Computing Through Combinatorial Topology**! [📖](https://www.amazon.com/Distributed-Computing-Through-Combinatorial-Topology/dp/0124045782) 
 - [ ] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
 - [ ] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
@@ -194,6 +202,7 @@ TODO:
  
 ## Career, Skill Acquisition, Personal Growth
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [ ] ️‼️ **Creative Confidence: Unleashing the Creative Potential Within Us All** [📖](http://www.goodreads.com/book/show/17288649-creative-confidence)
 - [ ] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [ ] ️‼️ **How Not to be Wrong** [📖](http://www.goodreads.com/book/show/18693884-how-not-to-be-wrong)
 - [ ] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
@@ -226,6 +235,7 @@ TODO:
 - [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
 
 ## Habits & Lifestyle
+- [ ] ‼️ **The Power of Habit: Why We Do What We Do in Life and Business** [📖](http://www.goodreads.com/book/show/12609433-the-power-of-habit) 
 - [ ] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
 - [ ] ️⭐️ **Algorithms to live by** [📖](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) 
 - [ ] ️⭐️ **Productivity Handbook** [📖](https://www.dropbox.com/s/kf39sos23qtwzax/Prouductivity%20Handbook.pdf?dl=0) 
@@ -250,6 +260,7 @@ TODO:
 - [ ] Tao Te Ching [📖](https://www.goodreads.com/book/show/67896.Tao_Te_Ching) 
 
 ## Marketing
+- [ ] ⭐️ **Viral Loop**  [📖](http://www.goodreads.com/book/show/6912295-viral-loop)  
 - [ ] ⭐️️️ **15 invaluable laws of growth** [📖](https://www.goodreads.com/book/show/13529210-the-15-invaluable-laws-of-growth) 
 - [ ] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)  
 - [ ] ⭐️️️ **The 22 Immutable Laws of Marketing** [📖](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing) 
@@ -262,6 +273,8 @@ TODO:
 - [ ] Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
 
 ## Management, Entrepreneurship, Strategy & Decision Making
+- [x] 	Rapid Problem Solving with Post-it Notes [📖](http://www.goodreads.com/book/show/645616.Rapid_Problem_Solving_With_Post_it_Notes) 
+- [ ] ⭐️ ‼️ **Ogilvy on Advertising** [📖](https://www.goodreads.com/book/show/641601.Ogilvy_on_Advertising) 
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
 - [ ] ⭐️ ‼️ **Five languages of appreciation** [📖](https://www.goodreads.com/book/show/11259079-the-five-languages-of-appreciation-in-the-workplace)
 - [ ] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
@@ -297,6 +310,7 @@ TODO:
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
 
 ## Religious artefacts
+- [ ] Waking Up: A Guide to Spirituality Without Religion [📖](http://www.goodreads.com/book/show/18774981-waking-up) 
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
 - [ ] The Mahabharatha [📖](https://www.goodreads.com/book/show/10967733-the-mahabharatha) 
 - [ ] Avesta [📖](http://www.avesta.org/) 
