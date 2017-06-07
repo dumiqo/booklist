@@ -27,6 +27,9 @@ TODO:
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
 
 ## Mindset Enhancement, Philosophy
+
+- [ ] ⭐️️️ ️‼️ **The Power to Compete** [📖](https://www.gatesnotes.com/Books/The-Power-to-Compete)
+- [ ] ⭐️️️ ️‼️ **The Vital Question** [📖](http://www.goodreads.com/book/show/26530386-the-vital-question)
 - [ ] ⭐️️️ ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
 - [ ] ⭐️️️ ‼️ **The 7 Habits of Highly Effective People** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [ ] ⭐️️️ ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
@@ -118,6 +121,8 @@ TODO:
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket) 
 
 ## Engineering & Programming
+
+- [ ] ‼️ **Distributed Computing Through Combinatorial Topology**! [📖](https://www.amazon.com/Distributed-Computing-Through-Combinatorial-Topology/dp/0124045782) 
 - [ ] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
 - [ ] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
 - [ ] ‼️ **The Passionate Programmer** [📖](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
@@ -188,8 +193,9 @@ TODO:
 - [ ] Software Architecture For Developers [📖](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers)
  
 ## Career, Skill Acquisition, Personal Growth
+- [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [ ] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
-- [ ] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [ ] ️‼️ **How Not to be Wrong** [📖](http://www.goodreads.com/book/show/18693884-how-not-to-be-wrong)
 - [ ] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
 - [ ] ‼️ **Deep Work** [📖](https://www.goodreads.com/book/show/25744928-deep-work)
 - [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better) 
