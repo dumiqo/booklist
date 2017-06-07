@@ -91,9 +91,9 @@ TODO:
 - [ ] ⭐️️️ ‼️ **Resonate: Present Visual Stories that Transform Audiences** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [ ] ⭐️ ‼️ **The Humane Interface** [📖](https://www.goodreads.com/book/show/344726.The_Humane_Interface)
 - [ ] ⭐️ ‼️ **The Design of Everyday Things** [📖](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) 
-- [ ] ⭐️ **Non-Designer's Design Book, The, 4th Edition** [📖]
+- [ ] ⭐️ **Non-Designer's Design Book, The, 4th Edition** [📖](https://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book) 
 - [ ] ⭐️ **Seductive Interaction Design** [📖](https://www.goodreads.com/book/show/9967766-seductive-interaction-design) 
-- [ ] Design for Hackers [📖](https://www.goodreads.com/book/show/11457105-design-for-hackers)(https://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book) 
+- [ ] Design for Hackers [📖](https://www.goodreads.com/book/show/11457105-design-for-hackers)
 - [ ] Designing Web Interfaces. Principles and Patterns for Rich Interactions [📖](https://www.goodreads.com/book/show/5674421-designing-web-interfaces) 
 - [ ] UX for Lean Startups [📖](https://www.goodreads.com/book/show/16128986-ux-for-lean-startups) 
 - [ ] Design For business  [📖](http://tubikstudio.com/book/)
