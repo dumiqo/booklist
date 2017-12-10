@@ -84,6 +84,7 @@ TODO:
 - [ ] Joy Inc. [📖](https://www.goodreads.com/book/show/18079560-joy-inc) 
 - [ ] Hard Thing About Hard Things [📖](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) 
 - [ ] First Impressions: What You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/show/589937.First_Impressions)
+- [ ] A History of Western Philosophy [📖](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) 
 
 ## UX & Design
 - [ ] ⭐️️️ ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
@@ -130,6 +131,13 @@ TODO:
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket) 
 
 ## Engineering & Programming
+- [x] ‼️ **Algorithms and Data Structures**! [📖](https://www.amazon.com/Algorithms-Data-Structures-Russian-Virt/dp/5940745849) 
+- [ ] ‼️ **Foundations of Multidimensional and Metric Data Structures** [📖](https://www.goodreads.com/book/show/1579270.Foundations_of_Multidimensional_and_Metric_Data_Structures)
+- [ ] ‼️ **Managing Time in Relational Databases: How to Design, Update and Query Temporal Data** [📖](https://www.amazon.co.uk/Managing-Time-Relational-Databases-Temporal/dp/0123750415)
+- [ ] ‼️ **Database Systems: The Complete Book**! [📖](https://www.goodreads.com/book/show/236665.Database_Systems)
+- [ ] ‼️ **Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery **! [📖](https://www.amazon.com/Transactional-Information-Systems-Algorithms-Concurrency/dp/1558605088)
+- [ ] ‼️ **Foundations for Programming Languages**! [📖](https://mitpress.mit.edu/books/foundations-programming-languages) 
+- [ ] ‼️ **Types and Programming Languages**! [📖](https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages) 
 - [ ] ‼️ **Distributed Computing Through Combinatorial Topology**! [📖](https://www.amazon.com/Distributed-Computing-Through-Combinatorial-Topology/dp/0124045782) 
 - [ ] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
 - [ ] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
@@ -199,6 +207,7 @@ TODO:
 - [ ] Exploratory Software Testing [📖](https://www.goodreads.com/book/show/6828590-exploratory-software-testing)
 - [ ] Testing Computer Software [📖](https://www.goodreads.com/book/show/663621.Testing_Computer_Software)
 - [ ] Software Architecture For Developers [📖](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers)
+- [ ] How to Design Programs: An Introduction to Programming and Computing [📖](https://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
  
 ## Career, Skill Acquisition, Personal Growth
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
@@ -233,8 +242,12 @@ TODO:
 - [ ] Из связей в князи [📖](https://www.dropbox.com/s/tceqpxqbhv2s16i/%D0%98%D0%B7_%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9_%D0%B2_%D0%BA%D0%BD%D1%8F%D0%B7%D0%B8_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2.pdf) 
 - [ ] The Denial of Death [📖](https://www.goodreads.com/book/show/2761.The_Denial_of_Death)
 - [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
+- [ ] The Annotated Turing: Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine [📖](https://www.goodreads.com/book/show/2333956.The_Annotated_Turing) 
 
 ## Habits & Lifestyle
+- [x] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
+- [x] The Greatest Show on Earth: The Evidence for Evolution [📖](https://www.goodreads.com/book/show/6117055-the-greatest-show-on-earth)
+- [x] Bleu: Histoire d'une couleur [📖](https://www.amazon.fr/Bleu-histoire-couleur-Michel-Pastoureau/dp/2020204754)
 - [ ] ‼️ **The Power of Habit: Why We Do What We Do in Life and Business** [📖](http://www.goodreads.com/book/show/12609433-the-power-of-habit) 
 - [ ] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
 - [ ] ️⭐️ **Algorithms to live by** [📖](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) 
@@ -243,6 +256,13 @@ TODO:
 - [ ] 52 Small Changes: One Year to a Happier, Healthier You [📖](https://www.goodreads.com/book/show/13034840-52-small-changes)
 - [ ] Daily Rituals [📖](https://www.goodreads.com/book/show/15799151-daily-rituals) 
 - [ ] Reinvent yourself [📖](https://www.goodreads.com/book/show/33638850-reinvent-yourself)
+- [ ] The Gutenberg Galaxy: The Making of Typographic Man [📖](https://www.goodreads.com/book/show/440463.The_Gutenberg_Galaxy)
+- [ ] Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics [📖](https://www.goodreads.com/book/show/109774.Science_and_Sanity)
+- [ ] Art and Illusion: A Study in the Psychology of Pictorial Representation [📖](https://www.goodreads.com/book/show/61506.Art_and_Illusion)
+- [ ] What Is a Masterpiece? [📖](https://www.goodreads.com/book/show/2432730.What_Is_a_Masterpiece_)
+- [ ] Civilisation [📖](https://www.goodreads.com/book/show/330451.Civilisation)
+- [ ] Notes on a Synthesis of Form [📖](https://www.goodreads.com/book/show/320553.Notes_on_the_Synthesis_of_Form)
+- [ ] Envisioning Information [📖](https://www.goodreads.com/book/show/17745.Envisioning_Information)
 
 # Finances
 - [ ] ⭐️ **The Little Book of Common Sense Investing** [📖](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing)
@@ -310,6 +330,7 @@ TODO:
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
 
 ## Religious artefacts
+- [ ] The God Delusion [📖](https://www.goodreads.com/book/show/14743.The_God_Delusion) 
 - [ ] Waking Up: A Guide to Spirituality Without Religion [📖](http://www.goodreads.com/book/show/18774981-waking-up) 
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
 - [ ] The Mahabharatha [📖](https://www.goodreads.com/book/show/10967733-the-mahabharatha) 
@@ -318,3 +339,4 @@ TODO:
 - [ ] Ramayana [📖](https://www.goodreads.com/book/show/141152.Ramayana) 
 - [ ] Journey to the East [📖](https://www.goodreads.com/book/show/13519.The_Journey_to_the_East) 
 - [ ] Введение в Буддологию [📖](https://www.goodreads.com/book/show/16099032)
+- [ ] Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice [📖](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind)
