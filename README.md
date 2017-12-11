@@ -132,6 +132,8 @@ TODO:
 
 ## Engineering & Programming
 - [x] ‼️ **Algorithms and Data Structures**! [📖](https://www.amazon.com/Algorithms-Data-Structures-Russian-Virt/dp/5940745849) 
+- [x] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
+- [ ] ⭐️ ‼️ **readings in database system** [📖](http://www.redbook.io/) 
 - [ ] ‼️ **Foundations of Multidimensional and Metric Data Structures** [📖](https://www.goodreads.com/book/show/1579270.Foundations_of_Multidimensional_and_Metric_Data_Structures)
 - [ ] ‼️ **Managing Time in Relational Databases: How to Design, Update and Query Temporal Data** [📖](https://www.amazon.co.uk/Managing-Time-Relational-Databases-Temporal/dp/0123750415)
 - [ ] ‼️ **Database Systems: The Complete Book**! [📖](https://www.goodreads.com/book/show/236665.Database_Systems)
@@ -150,7 +152,6 @@ TODO:
 - [ ] ⭐️ **Professor Frisby's Mostly Adequate Guide to Functional Programming** [📖](https://www.goodreads.com/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
 - [ ] ⭐️️ ‼️️️ **Grokking Algorithms** [📖](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [ ] ⭐️ **Programming Beyond Practices** [📖](https://www.goodreads.com/book/show/29895093-programming-beyond-practices) 
-- [ ] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
 - [ ] ⭐️ ‼️ **Site Reliability Engineering** [📖](http://shop.oreilly.com/product/0636920041528.do) 
 - [ ] ⭐️ ‼️ **Working Effectively with Legacy Code** [📖](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 - [ ] ⭐️ ‼ Object-Oriented Software Construction (2nd Edition) [📖](https://www.goodreads.com/book/show/946106.Object_Oriented_Software_Construction)
@@ -211,6 +212,7 @@ TODO:
  
 ## Career, Skill Acquisition, Personal Growth
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [x] Flow: The Psychology of Optimal Experience [📖](https://www.goodreads.com/book/show/66354.Flow) 
 - [ ] ️‼️ **Creative Confidence: Unleashing the Creative Potential Within Us All** [📖](http://www.goodreads.com/book/show/17288649-creative-confidence)
 - [ ] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [ ] ️‼️ **How Not to be Wrong** [📖](http://www.goodreads.com/book/show/18693884-how-not-to-be-wrong)
@@ -234,7 +236,6 @@ TODO:
 - [ ] Камасутра для оратора [📖](https://www.goodreads.com/book/show/11159197-10) 
 - [ ] Fearless salary negotiation [📖](https://www.goodreads.com/book/show/28148897-fearless-salary-negotiation)
 - [ ] The Dip: A Little Book That Teaches You When to Quit (and When to Stick) [📖](https://www.goodreads.com/book/show/324748.The_Dip) 
-- [ ] Flow: The Psychology of Optimal Experience [📖](https://www.goodreads.com/book/show/66354.Flow) 
 - [ ] The First 20 hours [📖](https://www.goodreads.com/book/show/16158493-the-first-20-hours) 
 - [ ] Better than Before [📖](https://www.goodreads.com/book/show/22889767-better-than-before) 
 - [ ] Drive [📖](https://www.goodreads.com/book/show/6452796-drive) 
