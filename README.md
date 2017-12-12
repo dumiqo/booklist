@@ -19,14 +19,17 @@ TODO:
 # Books
 
 ## Uncategorized 
+- [x] Surely You're Joking, Mr. Feynman! [📖](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) 
 - [ ] ⭐️️️ ‼️ Seveneves [📖](http://www.goodreads.com/book/show/22816087-seveneves)
 - [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 - [ ] A short history of nearly everything [📖](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 - [ ] Werner Siemens [📖](http://www.siemens.com/content/dam/internet/siemens-com/global/company/about/history/personalities/werner-von-siemens/2016-lifelines-werner-von-siemens-web.pdf)
 - [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)  
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
+- [ ] Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street [📖](https://www.goodreads.com/book/show/186124.Fortune_s_Formula) 
 
 ## Mindset Enhancement, Philosophy
+- [x] Through the Language Glass. Why the World Looks Different in Other Languages [📖](https://www.goodreads.com/book/show/8444621-through-the-language-glass)
 - [x] ⭐️️️ ️‼️ **The End of Absence: Reclaiming What We've Lost in a World of Constant Connection** [📖](http://www.goodreads.com/book/show/20821373-the-end-of-absence)
 - [x] ⭐️ **Fooled by Randomness** [📖](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)   
 - [ ] ⭐️ **10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works** [📖](http://www.goodreads.com/book/show/18505796-10-happier)   
@@ -133,6 +136,9 @@ TODO:
 ## Engineering & Programming
 - [x] ‼️ **Algorithms and Data Structures**! [📖](https://www.amazon.com/Algorithms-Data-Structures-Russian-Virt/dp/5940745849) 
 - [x] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
+- [x] Code: The Hidden Language of Computer Hardware and Software [📖](https://www.goodreads.com/book/show/44882.Code) 
+- [ ] ⭐️ ‼️ **The New Turing Omnibus** [📖](https://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus) 
+- [ ] ⭐️ ‼️ **Garbage Collection: Algorithms for Automatic Dynamic Memory Management** [📖](https://www.goodreads.com/book/show/1267464.Garbage_Collection) 
 - [ ] ⭐️ ‼️ **readings in database system** [📖](http://www.redbook.io/) 
 - [ ] ‼️ **Foundations of Multidimensional and Metric Data Structures** [📖](https://www.goodreads.com/book/show/1579270.Foundations_of_Multidimensional_and_Metric_Data_Structures)
 - [ ] ‼️ **Managing Time in Relational Databases: How to Design, Update and Query Temporal Data** [📖](https://www.amazon.co.uk/Managing-Time-Relational-Databases-Temporal/dp/0123750415)
@@ -185,7 +191,6 @@ TODO:
 - [ ] The Art of Readable Code [📖](https://www.goodreads.com/book/show/8677004-the-art-of-readable-code) 
 - [ ] The Inmates are Running the Asylum [📖](https://www.goodreads.com/book/show/44098.The_Inmates_Are_Running_the_Asylum)
 - [ ] Resilient Web Design [📖](https://resilientwebdesign.com) 
-- [ ] Code: The Hidden Language of Computer Hardware and Software [📖](https://www.goodreads.com/book/show/44882.Code) 
 - [ ] JavaScript: The Good Parts [📖](https://www.goodreads.com/book/show/2998152-javascript)
 - [ ] Patterns of Enterprise Application Architecture [📖](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) 
 - [ ] Enterprise Integration Patterns [📖](https://www.goodreads.com/book/show/85012.Enterprise_Integration_Patterns) 
@@ -224,8 +229,7 @@ TODO:
 - [ ] ⭐️ **Work rules!** [📖](https://www.goodreads.com/book/show/22875447-work-rules)
 - [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
 - [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
-- [ ] Make the Most of Your Mind
- [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
+- [ ] Make the Most of Your Mind [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
 - [ ] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 - [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers [📖](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 - [ ] Big Magic: Creative Living Beyond Fear [📖](https://www.goodreads.com/book/show/24453082-big-magic)
@@ -246,6 +250,7 @@ TODO:
 - [ ] The Annotated Turing: Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine [📖](https://www.goodreads.com/book/show/2333956.The_Annotated_Turing) 
 
 ## Habits & Lifestyle
+- [x] The Story of Art [📖](https://www.goodreads.com/book/show/222078.The_Story_of_Art)
 - [x] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [x] The Greatest Show on Earth: The Evidence for Evolution [📖](https://www.goodreads.com/book/show/6117055-the-greatest-show-on-earth)
 - [x] Bleu: Histoire d'une couleur [📖](https://www.amazon.fr/Bleu-histoire-couleur-Michel-Pastoureau/dp/2020204754)
@@ -295,6 +300,7 @@ TODO:
 
 ## Management, Entrepreneurship, Strategy & Decision Making
 - [x] 	Rapid Problem Solving with Post-it Notes [📖](http://www.goodreads.com/book/show/645616.Rapid_Problem_Solving_With_Post_it_Notes) 
+- [ ] ⭐️ ‼️ **Sources of Power: How People Make ** [📖](https://www.goodreads.com/book/show/65229.Sources_of_Power) 
 - [ ] ⭐️ ‼️ **Ogilvy on Advertising** [📖](https://www.goodreads.com/book/show/641601.Ogilvy_on_Advertising) 
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
 - [ ] ⭐️ ‼️ **Five languages of appreciation** [📖](https://www.goodreads.com/book/show/11259079-the-five-languages-of-appreciation-in-the-workplace)
@@ -331,6 +337,7 @@ TODO:
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
 
 ## Religious artefacts
+- [ ] The Book of Joy: Lasting Happiness in a Changing World [📖](https://www.goodreads.com/book/show/29496453-the-book-of-joy) 
 - [ ] The God Delusion [📖](https://www.goodreads.com/book/show/14743.The_God_Delusion) 
 - [ ] Waking Up: A Guide to Spirituality Without Religion [📖](http://www.goodreads.com/book/show/18774981-waking-up) 
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
