@@ -27,6 +27,7 @@ TODO:
 - [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)  
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
 - [ ] Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street [📖](https://www.goodreads.com/book/show/186124.Fortune_s_Formula) 
+- [ ] The Illusion of Life: Disney Animation [📖](https://www.goodreads.com/book/show/106731.The_Illusion_of_Life) 
 
 ## Mindset Enhancement, Philosophy
 - [x] Through the Language Glass. Why the World Looks Different in Other Languages [📖](https://www.goodreads.com/book/show/8444621-through-the-language-glass)
@@ -254,6 +255,7 @@ TODO:
 - [x] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [x] The Greatest Show on Earth: The Evidence for Evolution [📖](https://www.goodreads.com/book/show/6117055-the-greatest-show-on-earth)
 - [x] Bleu: Histoire d'une couleur [📖](https://www.amazon.fr/Bleu-histoire-couleur-Michel-Pastoureau/dp/2020204754)
+- [ ] ‼️ **Free to Choose: A Personal Statement** [📖](https://www.goodreads.com/book/show/97820.Free_to_Choose)
 - [ ] ‼️ **The Power of Habit: Why We Do What We Do in Life and Business** [📖](http://www.goodreads.com/book/show/12609433-the-power-of-habit) 
 - [ ] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
 - [ ] ️⭐️ **Algorithms to live by** [📖](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) 
@@ -277,6 +279,7 @@ TODO:
 - [ ] The intelligent investor  [📖](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) 
 - [ ] Ваши деньги должны работать. Владимир Савенок. [📖](https://www.ozon.ru/context/detail/id/4946274/)
 - [ ] The Undercover Economist [📖](https://www.goodreads.com/book/show/70420.The_Undercover_Economist) 
+- [ ] A Random Walk Down Wall Street [📖](https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street) 
 
 ## Manliness
 - [ ] ⭐️ ‼️ **No More Mr. Nice Guy** [📖](https://www.goodreads.com/book/show/97642.No_More_Mr_Nice_Guy) 
