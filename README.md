@@ -27,8 +27,7 @@ TODO:
 - [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)  
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
 - [ ] Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street [📖](https://www.goodreads.com/book/show/186124.Fortune_s_Formula) 
-- [ ] The Illusion of Life: Disney Animation [📖](https://www.goodreads.com/book/show/106731.The_Illusion_of_Life) 
-
+ 
 ## Mindset Enhancement, Philosophy
 - [x] Through the Language Glass. Why the World Looks Different in Other Languages [📖](https://www.goodreads.com/book/show/8444621-through-the-language-glass)
 - [x] ⭐️️️ ️‼️ **The End of Absence: Reclaiming What We've Lost in a World of Constant Connection** [📖](http://www.goodreads.com/book/show/20821373-the-end-of-absence)
@@ -89,6 +88,8 @@ TODO:
 - [ ] Hard Thing About Hard Things [📖](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) 
 - [ ] First Impressions: What You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/show/589937.First_Impressions)
 - [ ] A History of Western Philosophy [📖](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) 
+- [ ] The Magic of Reality, by Richard Dawkins [📖](https://www.goodreads.com/book/show/11256979-the-magic-of-reality) 
+- [ ] What If?, by Randall Munroe [📖](https://www.goodreads.com/book/show/21413662-what-if) 
 
 ## UX & Design
 - [ ] ⭐️️️ ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
@@ -138,7 +139,12 @@ TODO:
 - [x] ‼️ **Algorithms and Data Structures**! [📖](https://www.amazon.com/Algorithms-Data-Structures-Russian-Virt/dp/5940745849) 
 - [x] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
 - [x] Code: The Hidden Language of Computer Hardware and Software [📖](https://www.goodreads.com/book/show/44882.Code) 
-- [ ] ⭐️ ‼️ **The New Turing Omnibus** [📖](https://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus) 
+- [ ] ⭐️ ‼️ **The New Turing Omnibus** [📖](https://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)  
+- [ ] ⭐️ ‼️ **Computer Architecture and Parallel Processing** [📖](https://www.amazon.com/Computer-Architecture-Parallel-Processing-Briggs/dp/0070663548)  
+- [ ] ⭐️ ‼️ **Computers & Typesetting, Volume B: TeX: The Program** [📖](https://www.goodreads.com/book/show/499934.Computers_Typesetting_Volume_B)  
+- [ ] ⭐️ ‼️ **In Search of Stupidity: Over Twenty Years of High Tech Marketing Disasters** [📖](https://www.goodreads.com/book/show/1191767.In_Search_of_Stupidity)  
+- [ ] ⭐️ ‼️ **Practical Signal Processing** [📖](https://www.amazon.com/Practical-Signal-Processing-Mark-Owen/dp/1107411823)
+- [ ] ⭐️ ‼️ **Make: Analog Synthesizers** [📖](https://www.amazon.co.uk/Make-Analog-Synthesizers-Ray-Wilson/dp/1449345220) 
 - [ ] ⭐️ ‼️ **Garbage Collection: Algorithms for Automatic Dynamic Memory Management** [📖](https://www.goodreads.com/book/show/1267464.Garbage_Collection) 
 - [ ] ⭐️ ‼️ **readings in database system** [📖](http://www.redbook.io/) 
 - [ ] ‼️ **Foundations of Multidimensional and Metric Data Structures** [📖](https://www.goodreads.com/book/show/1579270.Foundations_of_Multidimensional_and_Metric_Data_Structures)
@@ -255,6 +261,21 @@ TODO:
 - [x] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [x] The Greatest Show on Earth: The Evidence for Evolution [📖](https://www.goodreads.com/book/show/6117055-the-greatest-show-on-earth)
 - [x] Bleu: Histoire d'une couleur [📖](https://www.amazon.fr/Bleu-histoire-couleur-Michel-Pastoureau/dp/2020204754)
+- [ ] ⭐️ ‼️ **p53: The Gene that Cracked the Cancer Code** [📖](https://www.goodreads.com/book/show/22524794-p53)  
+- [ ] ⭐️ ‼️ **Half Girlfriend** [📖](https://www.goodreads.com/book/show/22874559-half-girlfriend) 
+- [ ] ⭐️ ‼️ **How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships** [📖](https://www.goodreads.com/book/show/35210.How_to_Talk_to_Anyone) 
+- [ ] ⭐️ ‼️ **Spy Catcher: The Candid Autobiography of a Senior Intelligence Officer** [📖](https://www.goodreads.com/book/show/971569.Spycatcher) 
+- [ ] ⭐️ ‼️ ** Man Who Mistook His Wife for a Hat** [📖](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) 
+- [ ] ⭐️ ‼️ **Mind's Eye** [📖](https://www.goodreads.com/book/show/20824260-mind-s-eye) 
+- [ ] ⭐️ ‼️ **When Breath Becomes Air** [📖](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air) 
+- [ ] ⭐️ ‼️ **Man's Search for Meaning** [📖](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) 
+- [ ] ⭐️ ‼️ **Failure Is Not an Option: Mission Control From Mercury to Apollo 13 and Beyond** [📖](https://www.goodreads.com/book/show/141499.Failure_is_Not_an_Option) 
+- [ ] ⭐️ ‼️ ** Forever Young: A Life of Adventure in Air and Space** [📖](https://www.goodreads.com/book/show/13584498-forever-young)  
+- [ ] ⭐️ ‼️ **The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life** [📖](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)  
+- [ ] ⭐️ ‼️ **The Vital Question: Energy, Evolution, and the Origins of Complex Life** [📖](https://www.goodreads.com/book/show/26530386-the-vital-question)  
+- [ ] ⭐️ ‼️ **Prey** [📖](https://www.amazon.com/Prey-Michael-Crichton/dp/0061703087%3FSubscriptionId%3DAKIAJ7VEQ66ABQKNZ5MQ%26tag%3Dleandot-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0061703087)  
+- [ ] ⭐️ ‼️ **80/20 Running: Run Stronger and Race Faster By Training Slower** [📖](https://www.goodreads.com/book/show/20821042-80-20-running) 
+- [ ] ‼️ **Should We Eat Meat?, by Vaclav Smil** [📖](https://www.goodreads.com/book/show/17298300-should-we-eat-meat)
 - [ ] ‼️ **Free to Choose: A Personal Statement** [📖](https://www.goodreads.com/book/show/97820.Free_to_Choose)
 - [ ] ‼️ **The Power of Habit: Why We Do What We Do in Life and Business** [📖](http://www.goodreads.com/book/show/12609433-the-power-of-habit) 
 - [ ] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
@@ -271,6 +292,8 @@ TODO:
 - [ ] Civilisation [📖](https://www.goodreads.com/book/show/330451.Civilisation)
 - [ ] Notes on a Synthesis of Form [📖](https://www.goodreads.com/book/show/320553.Notes_on_the_Synthesis_of_Form)
 - [ ] Envisioning Information [📖](https://www.goodreads.com/book/show/17745.Envisioning_Information)
+- [ ] The Illusion of Life: Disney Animation [📖](https://www.goodreads.com/book/show/106731.The_Illusion_of_Life) 
+- [ ] Hyperbole and a Half, by Allie Brosh [📖](https://www.goodreads.com/book/show/17571564-hyperbole-and-a-half)
 
 # Finances
 - [ ] ⭐️ **The Little Book of Common Sense Investing** [📖](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing)
@@ -300,6 +323,7 @@ TODO:
 - [ ] Made to Stick: Why Some Ideas Survive and Others Die [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick) 
 - [ ] Purple Cow: Transform Your Business By Being Remarkable [📖](https://www.goodreads.com/book/show/641604.Purple_Cow) 
 - [ ] Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
+- [ ] How to Lie With Statistics, by Darrell Huff [📖](https://www.goodreads.com/book/show/51291.How_to_Lie_with_Statistics)
 
 ## Management, Entrepreneurship, Strategy & Decision Making
 - [x] 	Rapid Problem Solving with Post-it Notes [📖](http://www.goodreads.com/book/show/645616.Rapid_Problem_Solving_With_Post_it_Notes) 
