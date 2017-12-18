@@ -94,6 +94,12 @@ TODO:
 - [ ] Expert Political Judgment: How Good Is It? How Can We Know? [📖](https://www.goodreads.com/book/show/89158.Expert_Political_Judgment) 
 - [ ] On Bullshit [📖](https://www.goodreads.com/book/show/385.On_Bullshit)
 - [ ] Guns, Germs, and Steel: The Fates of Human Societies [📖](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)
+- [ ] Quiet: The Power of Introverts in a World That Can't Stop Talking [📖](https://www.goodreads.com/book/show/8520610-quiet)
+- [ ] Science in Action: How to Follow Scientists and Engineers through Society [📖](https://www.amazon.co.uk/Science-Action-Scientists-Engineers-Through/dp/0674792912)
+- [ ] The Road to Character [📖](https://www.goodreads.com/book/show/22551809-the-road-to-character)
+- [ ] Psychotherapy East & West [📖](https://www.amazon.co.uk/Psychotherapy-East-West-Alan-Watts/dp/0394716094)
+- [ ] How Music Got Free: A Story of Obsession and Invention [📖](http://www.ozon.ru/context/detail/id/137764881/)
+- [ ] Debt: The First 5,000 Years [📖](https://www.goodreads.com/book/show/6617037-debt)
 
 ## UX & Design
 - [ ] ⭐️️️ ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
@@ -138,11 +144,19 @@ TODO:
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket) 
+- [ ] SPQR: История Древнего Рима [📖](https://www.ozon.ru/context/detail/id/138528600/)
+- [ ] Аза Тахо-Годи, «Греческая мифология» [📖](https://www.ozon.ru/context/detail/id/1804280/)
+- [ ] Анатомия архитектуры. Семь книг о логике, форме и смысле [📖](https://www.ozon.ru/context/detail/id/139419457/)
+- [ ] Арсений Гулыга, «Немецкая классическая философия» [📖](https://www.ozon.ru/context/detail/id/4659085/)
+- [ ] Пол Коллиер, «Исход: как миграция изменяет наш мир» [📖](https://www.ozon.ru/context/detail/id/137333857/)
 
 ## Engineering & Programming
 - [x] ‼️ **Algorithms and Data Structures**! [📖](https://www.amazon.com/Algorithms-Data-Structures-Russian-Virt/dp/5940745849) 
 - [x] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
 - [x] Code: The Hidden Language of Computer Hardware and Software [📖](https://www.goodreads.com/book/show/44882.Code) 
+- [ ] Managing Time in Relational Databases: How to Design, Update and Query Temporal Data [📖](https://www.amazon.com/Managing-Time-Relational-Databases-Temporal/dp/0123750415) 
+- [ ] The Third Manifesto [📖](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf)
+- [ ] The Mathematical Experience [📖](https://www.goodreads.com/book/show/1113522.The_Mathematical_Experience) 
 - [ ] ⭐️ ‼️ **Functional Concurrency in .NET** [📖](https://www.goodreads.com/book/show/33781668-functional-concurrency-in-net) 
 - [ ] ⭐️ ‼️ **The New Turing Omnibus** [📖](https://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)  
 - [ ] ⭐️ ‼️ **Computer Architecture and Parallel Processing** [📖](https://www.amazon.com/Computer-Architecture-Parallel-Processing-Briggs/dp/0070663548)  
