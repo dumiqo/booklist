@@ -149,11 +149,17 @@ TODO:
 - [ ] Анатомия архитектуры. Семь книг о логике, форме и смысле [📖](https://www.ozon.ru/context/detail/id/139419457/)
 - [ ] Арсений Гулыга, «Немецкая классическая философия» [📖](https://www.ozon.ru/context/detail/id/4659085/)
 - [ ] Пол Коллиер, «Исход: как миграция изменяет наш мир» [📖](https://www.ozon.ru/context/detail/id/137333857/)
+- [ ] The Moscow Puzzles: 359 Mathematical Recreations (Dover Recreational Math) [📖](https://www.goodreads.com/book/show/391164.The_Moscow_Puzzles)
+- [ ] исследования о природе и причинах богатства народов адам смит [📖](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B5_%D0%B8_%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0%D1%85_%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2)
+- [ ] The Plausibility of Life: Resolving Darwin’s Dilemma [📖](https://www.goodreads.com/book/show/580257.The_Plausibility_of_Life)
 
 ## Engineering & Programming
+- [x] ‼️ **Modern Operating Systems (4th Edition)**! [📖](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) 
 - [x] ‼️ **Algorithms and Data Structures**! [📖](https://www.amazon.com/Algorithms-Data-Structures-Russian-Virt/dp/5940745849) 
 - [x] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
 - [x] Code: The Hidden Language of Computer Hardware and Software [📖](https://www.goodreads.com/book/show/44882.Code) 
+- [ ] Digital Design and Computer Architecture, Second Edition [📖](https://www.elsevier.com/books/digital-design-and-computer-architecture/harris/978-0-12-394424-5)
+- [ ] Electronic Components: A Complete Reference for Project Builders  [📖](https://www.goodreads.com/book/show/2099923.Electrical_Components)
 - [ ] Managing Time in Relational Databases: How to Design, Update and Query Temporal Data [📖](https://www.amazon.com/Managing-Time-Relational-Databases-Temporal/dp/0123750415) 
 - [ ] The Third Manifesto [📖](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf)
 - [ ] The Mathematical Experience [📖](https://www.goodreads.com/book/show/1113522.The_Mathematical_Experience) 
@@ -240,7 +246,16 @@ TODO:
 - [ ] Testing Computer Software [📖](https://www.goodreads.com/book/show/663621.Testing_Computer_Software)
 - [ ] Software Architecture For Developers [📖](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers)
 - [ ] How to Design Programs: An Introduction to Programming and Computing [📖](https://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
- 
+- [ ] Learning the Art of Electronics: A Hands-On Lab Course [📖](https://www.ozon.ru/context/detail/id/138791103/)
+- [ ] Purely Functional Data Structures [📖](https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures)
+- [ ] Hacking: The Art of Exploitation, 2nd Edition [📖](https://www.goodreads.com/book/show/61619.Hacking)
+- [ ] Type-Driven Development with Idris [📖](https://www.manning.com/books/type-driven-development-with-idris)
+- [ ] Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking) [📖](https://www.elsevier.com/books/network-algorithmics/varghese/978-0-12-088477-3)
+- [ ] Engineering a Compiler, Second Edition 2nd Edition [📖](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
+- [ ] Practical Object-Oriented Design in Ruby (POODR) [📖](https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
+- [ ] A Science of Operations Machines, Logic and the Invention of Programming [📖](http://www.springer.com/gp/book/9781848825543)
+- [ ] Zero Bugs and Program Faster’ by Kate Thompson [📖](https://www.goodreads.com/book/show/28638295-zero-bugs-and-program-faster)
+
 ## Career, Skill Acquisition, Personal Growth
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [x] Flow: The Psychology of Optimal Experience [📖](https://www.goodreads.com/book/show/66354.Flow) 
@@ -280,6 +295,7 @@ TODO:
 - [x] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [x] The Greatest Show on Earth: The Evidence for Evolution [📖](https://www.goodreads.com/book/show/6117055-the-greatest-show-on-earth)
 - [x] Bleu: Histoire d'une couleur [📖](https://www.amazon.fr/Bleu-histoire-couleur-Michel-Pastoureau/dp/2020204754)
+- [ ] ⭐️ ‼️ **A List of Successes That Can Change the World: Essays Dedicated to Philip Wadler on the Occasion of His 60th Birthday (Lecture Notes in Computer Science)** [📖](http://www.springer.com/la/book/9783319309354)  
 - [ ] ⭐️ ‼️ **p53: The Gene that Cracked the Cancer Code** [📖](https://www.goodreads.com/book/show/22524794-p53)  
 - [ ] ⭐️ ‼️ **Half Girlfriend** [📖](https://www.goodreads.com/book/show/22874559-half-girlfriend) 
 - [ ] ⭐️ ‼️ **How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships** [📖](https://www.goodreads.com/book/show/35210.How_to_Talk_to_Anyone) 
@@ -313,6 +329,10 @@ TODO:
 - [ ] Envisioning Information [📖](https://www.goodreads.com/book/show/17745.Envisioning_Information)
 - [ ] The Illusion of Life: Disney Animation [📖](https://www.goodreads.com/book/show/106731.The_Illusion_of_Life) 
 - [ ] Hyperbole and a Half, by Allie Brosh [📖](https://www.goodreads.com/book/show/17571564-hyperbole-and-a-half)
+- [ ] How Buildings Learn: What Happens After They're Built [📖](https://www.goodreads.com/book/show/38310.How_Buildings_Learn)
+- [ ] The Wealth of Humans: Work, Power, and Status in the Twenty-first Century [📖](https://www.goodreads.com/book/show/25663661-the-wealth-of-humans)
+- [ ] Three Felonies A Day: How the Feds Target the Innocent [📖](https://www.goodreads.com/book/show/6611240-three-felonies-a-day)
+- [ ] Work Less to Live Your Dreams: A practical guide to saving money and living your dreams [📖](https://www.goodreads.com/book/show/30289284-work-less-to-live-your-dreams)
 
 # Finances
 - [ ] ⭐️ **The Little Book of Common Sense Investing** [📖](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing)
