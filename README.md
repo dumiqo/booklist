@@ -152,6 +152,10 @@ TODO:
 - [ ] The Moscow Puzzles: 359 Mathematical Recreations (Dover Recreational Math) [📖](https://www.goodreads.com/book/show/391164.The_Moscow_Puzzles)
 - [ ] исследования о природе и причинах богатства народов адам смит [📖](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B5_%D0%B8_%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0%D1%85_%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2)
 - [ ] The Plausibility of Life: Resolving Darwin’s Dilemma [📖](https://www.goodreads.com/book/show/580257.The_Plausibility_of_Life)
+- [ ] Calculus for the Practical Man [📖](https://www.amazon.com/Calculus-Practical-Man-J-Thompson/dp/1406756725)
+- [ ] Advanced Calculus, by Woods [📖](https://www.goodreads.com/book/show/24975918-advanced-calculus)
+- [ ] Discrete Mathematics with Applications [📖](https://www.goodreads.com/book/show/478566.Discrete_Mathematics_with_Applications)
+- [ ] Атлас анатомии человека. В 4 томах. [📖]()
 
 ## Engineering & Programming
 - [x] ‼️ **Modern Operating Systems (4th Edition)**! [📖](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) 
@@ -258,6 +262,7 @@ TODO:
 
 ## Career, Skill Acquisition, Personal Growth
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [x] ‼️ **Hackers & Painters** [📖](https://www.goodreads.com/book/show/41793.Hackers_Painters)
 - [x] Flow: The Psychology of Optimal Experience [📖](https://www.goodreads.com/book/show/66354.Flow) 
 - [ ] ️‼️ **Creative Confidence: Unleashing the Creative Potential Within Us All** [📖](http://www.goodreads.com/book/show/17288649-creative-confidence)
 - [ ] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
@@ -289,6 +294,8 @@ TODO:
 - [ ] The Denial of Death [📖](https://www.goodreads.com/book/show/2761.The_Denial_of_Death)
 - [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
 - [ ] The Annotated Turing: Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine [📖](https://www.goodreads.com/book/show/2333956.The_Annotated_Turing) 
+- [ ] Me, Myself, and Us: The Science of Personality and the Art of Well-Being [📖](https://www.goodreads.com/book/show/22512853-me-myself-and-us)
+- [ ] The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma [📖](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score)
 
 ## Habits & Lifestyle
 - [x] The Story of Art [📖](https://www.goodreads.com/book/show/222078.The_Story_of_Art)
@@ -333,6 +340,8 @@ TODO:
 - [ ] The Wealth of Humans: Work, Power, and Status in the Twenty-first Century [📖](https://www.goodreads.com/book/show/25663661-the-wealth-of-humans)
 - [ ] Three Felonies A Day: How the Feds Target the Innocent [📖](https://www.goodreads.com/book/show/6611240-three-felonies-a-day)
 - [ ] Work Less to Live Your Dreams: A practical guide to saving money and living your dreams [📖](https://www.goodreads.com/book/show/30289284-work-less-to-live-your-dreams)
+- [ ] Never Split the Difference: Negotiating As If Your Life Depended On It [📖](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
+- [ ] The War of Art: Break Through the Blocks and Win Your Inner Creative Battles [📖](https://www.goodreads.com/book/show/1319.The_War_of_Art)
 
 # Finances
 - [ ] ⭐️ **The Little Book of Common Sense Investing** [📖](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing)
