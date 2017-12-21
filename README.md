@@ -259,6 +259,7 @@ TODO:
 - [ ] Practical Object-Oriented Design in Ruby (POODR) [📖](https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
 - [ ] A Science of Operations Machines, Logic and the Invention of Programming [📖](http://www.springer.com/gp/book/9781848825543)
 - [ ] Zero Bugs and Program Faster’ by Kate Thompson [📖](https://www.goodreads.com/book/show/28638295-zero-bugs-and-program-faster)
+- [ ] A First Course in Network Theory [📖](https://www.amazon.co.uk/First-Course-Network-Theory/dp/0198726465)
 
 ## Career, Skill Acquisition, Personal Growth
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
